@@ -360,7 +360,7 @@ Double click vào nó và bấm vào sau đó ấn X.
 
 Vậy địa chỉ bắt đầu ở `0x402576`, hên là bài này no PIE nên đây sẽ là địa chỉ đúng luôn. Giờ có đủ hết rồi bắt đầu băm thôi.
 
-À minh quên nói vì lúc mining là random nên các bạn bắt buộc phai code brute force để đào đến khi ra được kim loại hiếm.
+À minh quên nói vì lúc mining là random nên các bạn bắt buộc phải code brute force để đào đến khi ra được kim loại hiếm.
 
 ```Python
 def get_rare_earth():
